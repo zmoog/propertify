@@ -1,0 +1,14 @@
+{
+  "name": "propertify",
+  "version": "0.1.0",
+  "description": "Generate XML and Java code for RGIMM CM property configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-stream": "^0.1.3"
+  }
+}

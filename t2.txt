@@ -1,0 +1,4 @@
+/**
+ * {{comment}}
+ */
+public static final String {{constant}} = "{{filenet}}";

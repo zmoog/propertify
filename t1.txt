@@ -1,0 +1,3 @@
+<entry key="{{rgimm}}">
+        <util:constant static-field="it.snam.rgimm.cm.domain.documento.DocumentoAccessor.{{filenet}}"/>
+</entry>
